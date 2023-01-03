@@ -1,0 +1,16 @@
+{
+  "data":[
+    {
+      "Id":1,
+      "Title":"My Book",
+      "Price":10.55,
+      "Publish":"2022-02-20"
+    },
+     {
+      "Id":2,
+      "Title":"My Book1",
+      "Price":12.55,
+      "Publish":"2022-02-20"
+    }
+  ]
+}
